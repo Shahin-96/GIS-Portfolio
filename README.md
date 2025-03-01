@@ -7,5 +7,5 @@
 
 ## List of projects:
     
-- [Valmeyer City Relocation in Illinois](https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation)
+- [Valmeyer City Relocation in Illinois, USA](https://github.com/Shahin-96/GIS-Portfolio/tree/main/Valmeyer%20City%20Relocation)
 - [Wildfire Impacted Area in California, USA](https://github.com/Shahin-96/GIS-Portfolio/tree/main/Wildfire%20Impacted%20Area)
